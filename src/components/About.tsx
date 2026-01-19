@@ -8,7 +8,7 @@ const About = () => {
 
   const highlights = [
     { label: "NPE Crash 감소", value: "8% → 1%" },
-    { label: "코드 축소", value: "90%" },
+    { label: "코드 축소", value: "80%" },
     { label: "MAU 성장", value: "+50%" },
     { label: "활성 사용자", value: "2,000+" },
   ];
